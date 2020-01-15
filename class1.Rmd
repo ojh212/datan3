@@ -141,14 +141,12 @@ at http://r4ds.had.co.nz/.
 - Please edit your *.gitignore* file and add the line "data/"
 - You can add other files and folder to *.gitignore* as well, please see https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
-## For the next class
+## For the next class (22 Jan)
 
-- Install Git (if you haven't done this yet)
-- Register your account on Github
-- Create a project for this module by forking the module repo (https://github.com/datan3-2020/datan3) or simply create a new repo
-- Create an account on the UK Data Service website, download the Understanding Society data and put it in the correct folder (data). Edit the .gitignore file so that the data are not tracked
-- In the next class (22 January) we will talk about reproducible research and R Markdown
-- Please read ch.1 and 2 from R Markdown: The Definitive Guide (https://bookdown.org/yihui/rmarkdown/) before the class
-- Next week I will give you tasks for the test statistical assignment and explain how to submit it
-
+- Update your R and R Studio distributions
+- Install Git: https://git-scm.com/
+- Register an account on Github: https://github.com/
+- Register an account on the UK Data Service website and download the Understanding Society full data (study 6614): https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=6614
+- Read N.Buck \& S.McFall. (2011). "Understanding Society: design overview": http://llcsjournal.org/index.php/llcs/article/viewFile/159/168
+- Read ch.1 and 2 from R Markdown: The Definitive Guide: https://bookdown.org/yihui/rmarkdown/
 
