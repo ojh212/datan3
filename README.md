@@ -16,6 +16,7 @@
 - Location: Clayden 1.05
 - Monday, 10-11am
 - Friday, 10-11am
+- Yiyang's office hours: Clayden, Wednesday, 11.30am - 1.30pm
 
 #### Aims of the module
 
