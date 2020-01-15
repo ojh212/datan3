@@ -6,54 +6,46 @@ In this file I will list links to the repositories with statistical assignments.
 
 The mark for this assignment does not count towards your final grade.
 
-https://github.com/dataanalysis3/testAssignment2019
+Deadline: 28 January, 2pm
 
-Deadline: 29 January, 2pm.
 
 #### Statistical assignment 1
 
 10% of the final mark.
 
-Deadline: 5 February, 2pm.
-
-https://github.com/dataanalysis3/assignment1
+Deadline: 4 February, 2pm
 
 #### Statistical assignment 2
 
 10% of the final mark.
 
-Deadline: 19 February, 2pm.
-
-https://github.com/dataanalysis3/assignment2
+Deadline: 11 February, 2pm
 
 #### Statistical assignment 3
 
 10% of the final mark.
 
-Deadline: 5 March, 2pm.
+Deadline: 18 February, 2pm.
 
-https://github.com/dataanalysis3/assignment-3
 
 #### Statistical assignment 4
 
 10% of the final mark.
 
-Deadline: 12 March, 2pm.
+Deadline: 3 March, 2pm.
 
-https://github.com/dataanalysis3/assignment4
 
 #### Statistical assignment 5
 
 10% of the final mark.
 
-Deadline: 26 March, 2pm.
+Deadline: 17 March, 2pm.
 
-https://github.com/dataanalysis3/assignment5
+
 
 #### Final statistical report
 
 50% of the final mark.
 
-Deadline: 9 April, 2pm.
+Deadline: 28 April, 2pm.
 
-https://github.com/dataanalysis3/datan3_2019/blob/master/report.md
