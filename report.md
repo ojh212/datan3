@@ -1,10 +1,12 @@
 ### Statistical report
 
-Your final statistical report is due on 9 April (2pm) and it is worth 50% of your final mark. The length of your report should be approximately 2,000 words (tables, figures and the code excluded).
+Your final statistical report is due on 28 April (2pm) and it is worth 50% of your final mark. The length of your report should be approximately 2,000 words (tables, figures and the code excluded).
 
 For your final report you need to conduct an independent analysis of the Understanding Society data to answer one of the questions below. Unlike statistical assignments, I do not suggest a detailed plan for your analysis. You will need to decide yourself which features of the data you want to present in your reports and what is the best of doing this.
 
 Please choose one of the following questions.
+
+[The questions below are for 2019. The questions for 2020 will be confirmed at a later point.]
 
 1. Political scientists argue that people's political preferences are usually stable over the life course. Conservative supporters rarely switch to Labour, and Labour supporters rarely become Conservative. Test this statement empirically with the Understanding Society data and explore the characteristics of people who do change their political preferences over time.
 
